@@ -26,7 +26,7 @@
 # 🌟 3. Game Introduction (게임 소개)
 - **게임 스토리** :
   - 게임의 배경은 서울대학교 자하연에서 출발하여 공과대학 302동까지의 여정을 다룬다. 자하연에 살고 있는 오리는 어느 날 우연히 302동에 계신 전설적인 프로그래밍 교수님에 대한 소문을 듣게 되고, 프로그래밍을 배우기 위해 모험을 결심한다. 평화로운 자하연을 떠나 험난한 캠퍼스를 거쳐 302동에 도달하기까지 오리는 다양한 장애물과 맞서게 된다. 평화로운 자하연을 떠나 험난한 캠퍼스를 거쳐 302동에 도달하려는 오리의 모험은 꿈을 향한 도전과 성장을 의미한다.
-
+    
 - **스테이지 및 장애물** :
   - **스테이지 1 (자하연)** : 자하연에서 평화로운 일상을 보내고 있던 오리는 전설적인 프로그래밍 교수님에 대한 이야기를 듣고 흥미를 느끼게 되고, 이에 따라 자하연에서 벗어나 302동으로 향하고자 한다. 이 과정에서 고양이, 족제비와 같은 동물들(점프 및 좌우 회피), 나무(슬라이드 회피)와 같은 장애물들을 마주한다.
 
@@ -62,7 +62,7 @@
 
 # 🌟 4. Tasks & Responsibilities (작업 및 역할 분담)
 
-- **Sprint 0 (~10/22)**
+- **Sprint 0 (~ 10/22)**
 
   ![image](https://github.com/user-attachments/assets/6fd1456a-7410-40ea-8000-ded109d1e2d3)
 
@@ -88,7 +88,7 @@
 
 # 🌟 5. Contributions & Results (수행 역할 & 결과물)
 
-- **✍️수행 역할** : Unity 팀원
+- **수행 역할** (Unity 팀원)
 
   - 게임 UI 디자인 및 기능 구현
   
@@ -102,7 +102,11 @@
  
   - 게임 배포
 
-- **📂 문서**
+- **문서**
+  
+  - 프로젝트 관리 : [프로젝트 관리.pdf](https://github.com/user-attachments/files/18314147/default.pdf)
+ 
+  - 게임 사용 설명서 : [게임 사용 설명서.pdf](https://github.com/user-attachments/files/18314282/default.pdf)
 
   |스프린트 계획 보고서|태스크 진행 요약|회고 회의 보고서|추가 요구사항|
   |:--:|:--:|:--:|:--:|
@@ -110,9 +114,6 @@
   |[Sprint 2_스프린트 계획 보고서.pdf](https://github.com/user-attachments/files/18314009/Sprint.2_.pdf)|[Sprint 2_태스크 진행 요약.pdf](https://github.com/user-attachments/files/18314010/Sprint.2_.pdf)|[Sprint 2_회고 회의 보고서.pdf](https://github.com/user-attachments/files/18314011/Sprint.2_.pdf)|[Sprint 2_디자인 패턴.pdf](https://github.com/user-attachments/files/18314008/Sprint.2_.pdf)|
   |[Sprint 3_스프린트 계획 보고서.pdf](https://github.com/user-attachments/files/18314013/Sprint.3_.pdf)|[Sprint 3_태스크 진행 요약.pdf](https://github.com/user-attachments/files/18314014/Sprint.3_.pdf)|[Sprint 3_회고 회의 보고서.pdf](https://github.com/user-attachments/files/18314016/Sprint.3_.pdf)|[Sprint 3_디자인 패턴.pdf](https://github.com/user-attachments/files/18314012/Sprint.3_.pdf)<br />[Sprint 3_테스트 문서.pdf](https://github.com/user-attachments/files/18314015/Sprint.3_.pdf)|
   |[Sprint 4_스프린트 계획 보고서.pdf](https://github.com/user-attachments/files/18314021/Sprint.4_.pdf)|[Sprint 4_태스크 진행 요약.pdf](https://github.com/user-attachments/files/18314000/Sprint.4_.pdf)|[Sprint 4_회고 회의 보고서.pdf](https://github.com/user-attachments/files/18314004/Sprint.4_.pdf)|[Sprint 4_디자인 패턴.pdf](https://github.com/user-attachments/files/18314017/Sprint.4_.pdf)<br />[Sprint 4_테스트 문서.pdf](https://github.com/user-attachments/files/18314002/Sprint.4_.pdf)<br />[Sprint 4_리팩토링 문서.pdf](https://github.com/user-attachments/files/18314020/Sprint.4_.pdf)|
-
-  - 프로젝트 관리 : [프로젝트 관리.pdf](https://github.com/user-attachments/files/18314147/default.pdf)
-
 
 <br/>
 <br/>
@@ -137,6 +138,11 @@
 
 <br/>
 
-<a href="https://play.unity.com/en/games/3540025d-1439-4372-8b48-751ac7f4571f/engineeoring" target="_blank">
-  <img src="https://github.com/user-attachments/assets/e94517d8-5ee2-4c15-b437-ff472dba9e5e" alt="배너" width="50%"/>
-</a>
+
+<div algin="center">
+  <a display="block" href="https://play.unity.com/en/games/3540025d-1439-4372-8b48-751ac7f4571f/engineeoring" target="_blank">
+    <img src="https://github.com/user-attachments/assets/e94517d8-5ee2-4c15-b437-ff472dba9e5e" alt="로고" width="50%"/>
+  </a>
+  <br />
+(▲ 로고를 클릭하여 플레이 가능)
+</div>
