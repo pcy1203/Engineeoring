@@ -3,6 +3,7 @@
 </a>
 
 <br/>
+<hr />
 <br/>
 
 # 🌟 1. Project Overview (프로젝트 개요)
@@ -124,7 +125,7 @@
 | Language/Tool | Version |
 |:-------:|:-------:|
 | ![js](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | |
-| ![js](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) | 2021.3.52fl |
+| ![js](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) | 2021.3.52f1 |
 | ![js](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) | 4.2 |
 
 <br/>
@@ -136,13 +137,13 @@
 |![js](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)|태스크 관리 및 회의록 정리|
 |![js](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)|코드 및 에셋 관리|
 
-<br/>
-
+<br />
+<hr />
 
 <div algin="center">
+(▼ 로고를 클릭하여 플레이 가능)
+  <br />
   <a display="block" href="https://play.unity.com/en/games/3540025d-1439-4372-8b48-751ac7f4571f/engineeoring" target="_blank">
     <img src="https://github.com/user-attachments/assets/e94517d8-5ee2-4c15-b437-ff472dba9e5e" alt="로고" width="50%"/>
   </a>
-  <br />
-(▲ 로고를 클릭하여 플레이 가능)
 </div>
