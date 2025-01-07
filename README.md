@@ -36,6 +36,11 @@
   - **스테이지 3 (302동)** : 학생식당에서 교수님을 만나지 못한 오리는 직접 302동으로 가야 한다는 결심을 하게 된다. High-tech 콘셉트와 공과대학의 전형적인 모습이 공존하는 302동에서 이동하는 로봇(슬라이드 회피), 전공책(점프 회피), 대학원생(좌우 회피) 등을 교수님께 도달하기 이전의 장애물로서 마주한다.
  
   - 각 스테이지는 N개의 하드 코딩된 모듈이 존재하여 해당 모듈 단위로 랜덤하게 장애물 및 아이템이 등장한다.
+ 
+  |Stage 1|Stage 2|Stage 3|
+  |:--:|:--:|:--:|
+  |![image](https://github.com/user-attachments/assets/7ea6fc0d-b3ba-4acb-86a0-d5a25e8cbe01)|![image](https://github.com/user-attachments/assets/d9ab2468-1a41-4ab1-b2f6-c61f1ca65776)|![image](https://github.com/user-attachments/assets/232e748f-8d25-49ef-a076-fb5b6ba202f7)|
+
     
 - **게임 조작 방법 및 목표** :
   - **조작 방법** : 상하좌우 혹은 WASD 키를 사용하여 조작한다. 상/W 키로 점프, 하/S 키로 슬라이드, 좌우/AD 키로 좌우 이동이 가능하다. (좌우로는 5개의 칸 위에서 이동할 수 있다.)
